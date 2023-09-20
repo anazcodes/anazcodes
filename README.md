@@ -1,1 +1,1 @@
-![alt text](https://github.com/anazibinurasheed/anazibinurasheed/assets/gopher.png)
+![alt text](https://github.com/anazibinurasheed/anazibinurasheed/blob/main/assets/gopher.png)
