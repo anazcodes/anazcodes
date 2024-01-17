@@ -1,1 +1,1 @@
-## comparisons are bad, find out who you are.
+## comparisons are bad, figure out who you are.
